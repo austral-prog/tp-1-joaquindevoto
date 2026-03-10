@@ -19,3 +19,9 @@ def price():
     print(propina)
     print(precio_final)
 
+
+    print(impuesto)
+    print(subtotal)
+    print(propina)
+    print(precio_final)
+
