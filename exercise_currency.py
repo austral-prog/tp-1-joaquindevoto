@@ -15,5 +15,6 @@ def currency():
     print(pesos/tasa_dolar)
     print(pesos/tasa_euro)
     print(pesos/tasa_real)
+    
 
 
